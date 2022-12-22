@@ -1,0 +1,14 @@
+site_name: My Docs
+theme:
+  name: material
+  language: ja
+  font:
+    text: Roboto
+
+markdown_extensions:
+    - codehilite:
+        noclasses: true
+        pygments_style: colorful
+        linenums: true
+    - admonition
+    - pymdownx.superfences
