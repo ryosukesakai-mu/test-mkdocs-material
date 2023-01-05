@@ -1,0 +1,11 @@
+:root {
+    --md-text-font: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', '游ゴシック', 'Yu Gothic', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+html {
+    font-size: 125%;
+}
+
+.md-grid {
+    max-width: 1440px;
+}
