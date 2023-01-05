@@ -96,3 +96,7 @@ public class App
 | 炒飯 | 麻婆豆腐 | 回鍋肉 |
 
 ---
+
+## 画像
+
+![サンプル](/image/aws-sample.png) 
